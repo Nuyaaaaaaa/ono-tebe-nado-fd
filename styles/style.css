@@ -257,6 +257,7 @@
 .about-text {
   font-size: 20px;
   line-height: 24px;
+  max-width: 690px;
 }
 
 .footer {
@@ -269,10 +270,6 @@
 .footer .address {
   max-width: 265px;
   justify-self: start;
-}
-
-.footer__menu {
-  justify-self: center;
 }
 
 .footer__menu-list {
