@@ -41,8 +41,8 @@
   max-width: 240px;
 }
 
-.header-address__link,
-.header-address__text {
+.address__link,
+.address__text {
   font-size: 18px;
   line-height: 24px;
 }
@@ -285,6 +285,10 @@
 .footer__menu-link {
   font-size: 18px;
   line-height: 21px;
+}
+
+.footer__menu-link.active {
+border: none;
 }
 
 .footer__social-list {

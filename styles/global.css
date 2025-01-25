@@ -39,7 +39,7 @@ img {
 .h2-sections {
   font-size: 40px;
   line-height: 47px;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   text-transform: uppercase;
   font-weight: bold;
 }
